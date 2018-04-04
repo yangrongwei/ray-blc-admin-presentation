@@ -1,0 +1,5 @@
+rootProject.name = 'blc-admin-presentation'
+include 'blc-admin-presentation-annotation'
+include 'blc-admin-presentation-example'
+include 'blc-admin-presentation-annotation-processor'
+
